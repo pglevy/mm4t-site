@@ -2,6 +2,7 @@
 layout: post
 title: Credit Cards Are Not What You Think They Are (Pt. 2)
 external-url: https://www.buzzsprout.com/1341670/episodes/6897533
+audio: 6897533-credit-cards-are-not-what-you-think-they-are-pt-2.mp3
 ---
 
 ## {{page.title}}

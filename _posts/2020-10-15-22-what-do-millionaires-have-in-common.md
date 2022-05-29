@@ -2,6 +2,7 @@
 layout: post
 title: 22. What do millionaires have in common?
 external-url: https://www.buzzsprout.com/1341670/episodes/5901889
+audio: 5901889-22-what-do-millionaires-have-in-common.mp3
 ---
 
 ## {{page.title}}

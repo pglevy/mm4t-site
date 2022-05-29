@@ -15,11 +15,14 @@
     {% for post in site.posts limit:5 %}
       <li class="border-top pt-4 mb-4">
         <div>{{ post.content }}</div>
+        <!-- <audio id="player-{{ post.slug }}" controls>
+          <source src="https://archive.org/download/money-moves-for-teens-podcast/{{ post.audio }}" type="audio/mp3" />
+        </audio> -->
       </li>
     {% endfor %}
   </ul>
 
-  <p>To see all my episodes, <a href="https://mmft.buzzsprout.com/1341670" class="">check out my podcast page on Buzzsprout</a>.</p>
+  <p>To see all my episodes, <a href="https://archive.org/details/money-moves-for-teens-podcast/" class="">check out my podcast page on Internet Archive</a>.</p>
 
 </div>
 </div>
