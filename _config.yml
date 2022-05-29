@@ -9,7 +9,7 @@ jekyll_get_json:
     json: 'feed.json'
 
 #live
-url: "https://www.moneymovesforteens.com"
+url: "https://moneymovesforteens.com"
 baseurl: "/"
 
 #local
