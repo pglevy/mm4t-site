@@ -2,6 +2,7 @@
 layout: post
 title: 23. Why you should make money from more than one place
 external-url: https://www.buzzsprout.com/1341670/episodes/5997883
+audio: 5997883-23-why-you-should-make-money-from-more-than-one-place.mp3
 ---
 
 ## {{page.title}}

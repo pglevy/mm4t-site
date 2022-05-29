@@ -2,6 +2,7 @@
 layout: post
 title: 21. How to effectively manage school & a business
 external-url: https://www.buzzsprout.com/1341670/episodes/5800249
+audio: 5800249-21-how-to-effectively-manage-school-a-business.mp3
 ---
 
 ## {{page.title}}
