@@ -15,7 +15,7 @@ I started this podcast because I noticed that while we learn the usual math, sci
 
 From a young age, my parents taught me the basics of giving, saving, and spending, and overall how to be smart with money. I realize not every parent has time to talk to their kids about this, or knows where to start. I hope this podcast helps spark conversation.
 
-When I'm not working on this podcast, I enjoy making music with my mom and playing softball. These two things have been a part of my life for a while now, and I appreciate both. I started tutoring math at age 11 — my first real job and money-maker. Recently, I started tutoring online, so if you need help with middle school math, check out [Talia’s Tutoring](https://taliastutoring.com/){: .text-primary-lighter}!
+When I'm not working on this podcast, I enjoy making music with my mom and playing softball. These two things have been a part of my life for a while now, and I appreciate both. I started tutoring math at age 11 — my first real job and money-maker. Recently, I started tutoring online, so if you need help with middle school math, check out [Talia’s Tutoring](https://tslevy.github.io/talias-tutoring/){: .text-primary-lighter}!
 
 ​I truly believe personal finance is important and should be talked about with teens now, because it will give them a head start with money.
 
