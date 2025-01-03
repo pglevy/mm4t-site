@@ -20,7 +20,7 @@ You can make a flat donation to Money Moves for Teens by [buying me a coffee.](h
 
 If there is an episode you really like that you would like to go into further discussion about, [check out my outline & discussion guides.](https://www.buymeacoffee.com/talialevy/shop) I provide an overhead look at what the episode is about, along with questions at the end that can spark conversation on the topic. Print it out, take notes, answer the questions, and talk about the guide with friends and family.
 
-<a href="https://www.buymeacoffee.com/talialevy/shop" class="btn btn-outline-primary">Get a guide</a>
+<a href="https://buymeacoffee.com/talialevy/new-feature" class="btn btn-outline-primary">Get a guide</a>
 
 ## Money Moves Favorites
 
